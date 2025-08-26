@@ -5,8 +5,7 @@
 ---
 ## الاستخدام العادي
 ```bash
-python subexpander.py -list input.txt
-
+python subexpander.py -list input.txt```
 ## للاستخدام الأكثر دقة والتحكم في النتائج:
 
 ```bash
